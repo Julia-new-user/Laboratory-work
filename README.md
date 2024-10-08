@@ -15,3 +15,4 @@
 
 Среда разработки - *Visual Studio Code*
 ## Файлы проекта
+Для работы с 1 задачей необходимо использовать файл: [ИДЗ(Задача%201).py](https://github.com/Julia-new-user/Laboratory-work/blob/main/ИДЗ(Задача%201).py)
