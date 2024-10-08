@@ -13,7 +13,7 @@
 ## Среда программирования
 Язык программирования - *Python*
 
-Среда разработки - *Visual Studio Code*
+Среда разработки - *IDLE (Python 3.11 64-bit)*
 ## Файлы проекта
 Для работы с 1 задачей необходимо использовать файл: [ИДЗ(Задача%201).py](https://github.com/Julia-new-user/Laboratory-work/blob/main/ИДЗ(Задача%201).py)
 
@@ -23,4 +23,22 @@
 ## Запуск и использование программы
 Каждый файл можно запустить в компиляторе при помоши клавиши `F5` или кнопки `Run` на верхней панели компилятора. В зависимости от назначения программы, программа выдаст ответ на вопрос задачи
 ## Скриншоты тестов
-
+### Задание 1
+#### Тест 1
+![тест11](https://github.com/user-attachments/assets/fedbc338-d8ec-4ab4-ac14-0bf4e43fc1e9)
+#### Тест 2
+![тест12](https://github.com/user-attachments/assets/2a2f2750-08fe-43f9-986c-0da1e51958e6)
+#### Тест 3
+![тест13](https://github.com/user-attachments/assets/4111c928-efbc-4682-85db-6f236391d8aa)
+### Задание 2
+#### Тест 1
+![тест14](https://github.com/user-attachments/assets/3cfc281a-80e1-43bd-9a02-c0f89baf631b)
+#### Тест 2
+![тест15](https://github.com/user-attachments/assets/2b742582-f638-4347-b392-09e6e8bfcc00)
+#### Тест 3
+![тест16](https://github.com/user-attachments/assets/a17f115a-0e26-418c-af96-48cf8720e702)
+### Задание 3
+#### Тест 1
+![тест 17](https://github.com/user-attachments/assets/385fceb4-245f-4ac2-a169-1d51dce97e8f)
+#### Тест 2
+![тест18](https://github.com/user-attachments/assets/307b1720-ca8b-407f-812d-61db5479f079)
